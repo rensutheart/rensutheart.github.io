@@ -13,8 +13,8 @@ $$
     C_i=
     \begin{cases}
       0, & \text{if}\ \ \  x_{p_i} \leq d(x_{p_{max}}-x_{p_0}) \mathrm{tan} (\theta) + x_{p_0} \ \ \text{or}\ \ d > d_t \\ 
-      \frac{x_{p_i}-x_{p_0}}{x_{p_{max}}-x_{p_0}} - d \times \mathrm{tan} (\theta),  & \text{if}\ \ \ d(x_{p_{max}}-x_{p_0})\mathrm{tan}(\theta) + x_{p_0} < x_{p_i} < x_{p_{max}} \\
-      1 - d \times \mathrm{tan}(\theta), & \text{if}\ \ \  x_{p_i} \geq x_{p_{max}} \\
+      \frac{x_{p_i}-x_{p_0}}{x_{p_{max}}-x_{p_0}} - d ~ \mathrm{tan} (\theta),  & \text{if}\ \ \ d(x_{p_{max}}-x_{p_0})\mathrm{tan}(\theta) + x_{p_0} < x_{p_i} < x_{p_{max}} \\
+      1 - d ~ \mathrm{tan}(\theta), & \text{if}\ \ \  x_{p_i} \geq x_{p_{max}} \\
     \end{cases}
 $$
 
@@ -24,7 +24,7 @@ For a full derivation and explanation please refer to the paper (submitted, acce
 
 The RACC utility can be downloaded from here (requires [Python 3.5+](https://www.python.org/downloads/)):
 
-- [RACC v0.75 ZIP file (includes sample files)]({{ site.url }}/download/RACC_v0.75.zip)
+- [RACC v0.8 ZIP file (includes sample files)]({{ site.url }}/download/RACC_v0.8.zip)
 
 ### Quick installation (Windows only)
 Simply run the included .bat files to install all the packages as well as run RACC.
