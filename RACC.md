@@ -24,7 +24,7 @@ For a full derivation and explanation please refer to the paper (submitted, acce
 
 The RACC utility can be downloaded from here (requires [Python 3.5+](https://www.python.org/downloads/)):
 
-- [RACC v0.8 ZIP file (includes sample files)]({{ site.url }}/download/RACC_v0.8.zip)
+- [RACC v0.8.1 ZIP file (includes sample files)]({{ site.url }}/download/RACC_v0.8_1.zip)
 
 ### Quick installation (Windows only)
 Simply run the included .bat files to install all the packages as well as run RACC.
