@@ -18,7 +18,7 @@ $$
     \end{cases}
 $$
 
-For a full derivation and explanation please refer to the paper (submitted, acceptance pending).
+For a full derivation and explanation please refer to the [paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0225141). 
 
 ## Download and installation
 
@@ -63,6 +63,11 @@ Under the parameters group, you can set the background filtering thresholds for 
 In the output settings, you can select the file type, whether it should use the built in colourmap or output the image as grayscale. You can also optionally visualize the output within the utility.
 
 After all the settings are as desired, click on "Process" to calculate the RACC output for the given input.
+
+## Citation
+If you used this method or tool in your research please cite it as follows:
+
+Theart RP, Loos B, Niesler TR (2019) Regression adjusted colocalisation colour mapping (RACC): A novel biological visual analysis method for qualitative colocalisation analysis of 3D fluorescence micrographs. PLoS ONE 14(11): e0225141. https://doi.org/10.1371/journal.pone.0225141
 
 ## Report errors
 
